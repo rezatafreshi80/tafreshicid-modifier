@@ -22,5 +22,10 @@ This Asterisk dialplan snippet normalizes incoming Caller IDs from SIP trunks in
 3. در تنظیمات ترانک (Trunk) خود در محیط وب ایزابل، مقدار `context` را برابر با عبارت زیر قرار دهید:
 ```text
    context=tafreshiCID
+
+
+در صورت  عدم استارت   برنامه حتما استریسک   را ریلود و در نهایت   به مراجعه با سایت   توسعه دهنده www.ertebatcenter.com
+
+ویا   09122399179و 02133530748و02133530739 jlhs phwg tvlhddn
    
 
